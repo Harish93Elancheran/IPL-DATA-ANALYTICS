@@ -2,6 +2,7 @@
 
 An end-to-end **IPL Data Analytics project** developed using **Power BI, DAX, SQL, and Python** to analyze IPL matches, teams, players, venues, batting, bowling, and season-wise performance.
 
+
 ## 📊 Project Overview
 
 This project converts IPL match and ball-by-ball data into an interactive **Power BI dashboard**.
@@ -183,6 +184,11 @@ The project is designed to answer questions such as:
 
 This project demonstrates an end-to-end **Data Analytics workflow**, from raw IPL data preparation to SQL analysis, Power BI data modeling, DAX calculations, and interactive dashboard development.
 
----
+## 👨‍💻 Author
 
-⭐ **If you find this project useful, consider giving the repository a star!**
+**Harish E**
+
+**Skills:** Data Analytics | SQL | Python | Power BI | DAX | Excel
+
+
+
